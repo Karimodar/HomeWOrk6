@@ -8,6 +8,5 @@ public static void main(String[] args) {
 public void add() {
 	System.out.println("thank you");
 }
-	public void substract(){
-		System.out.println("dkfmdkgn");
+
 }
